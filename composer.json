@@ -1,0 +1,14 @@
+{   
+    "name"  : "sgn/connect",
+    "type"  : "anahita-extension",
+    "description": "Custom Connect app for SGN with Discord Authentication",
+    "homepage": "https://www.stonewallgaming.net",
+    "authors": [
+        {
+            "name": "Nick Swinford",
+            "email": "nicholasjohn16@gmail.com",
+            "homepage": "http://nicholasjohn16.com",
+            "role": "Developer"
+        }
+    ]
+}

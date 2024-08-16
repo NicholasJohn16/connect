@@ -1,5 +1,5 @@
 {
-  "name": "sgn/connect",
+  "name": "connect",
   "description": "Custom Connect component for SGN with Discord authentication",
   "type": "component",
   "version": "1.0.0",

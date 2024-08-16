@@ -21,7 +21,7 @@
      */
     public static function getServices()
     {
-        $avail_services = array('facebook','twitter','linkedin');
+        $avail_services = array('discord');
         $services = array();
         foreach ($avail_services as $service) {
             $service = self::getAPI($service);
